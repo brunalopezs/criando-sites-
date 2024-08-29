@@ -1,0 +1,28 @@
+body {
+    color: black;
+    background: red;
+    margin: 0 px;
+    font-family: "Bungee Tint", sans-serif;
+}
+
+
+
+header {
+    border-bottom: solid 2px red;
+    padding: 20px;
+    font-size: 40px;
+    color: rgba(1, 19, 8, 0) (75, 16, 16);
+
+}
+
+section {
+    background: blanchedalmond;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
